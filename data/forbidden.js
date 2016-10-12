@@ -9,15 +9,10 @@
  * https://css-tricks.com/words-avoid-educational-writing/
  */
 module.exports = [
-    'easily',
-    'simply',
     'obviously',
-    'just',
     'basically',
-    'procure',
     'sexy',
     'insane',
-    'clearly',
     'FAQ', // worth pointing out, at least
     'advancing', // not plain language
     'pledge', // noncommittal
@@ -28,7 +23,6 @@ module.exports = [
     'empower', // not plain language
     'focusing', // not plain language
     'foster', // not plain language unless referring to children
-    'innovative', // not plain language
     'leverage', // not plain language
     'overarching', // not plain language
     'streamline', // not plain language

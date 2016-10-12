@@ -1,6 +1,6 @@
 module.exports = {
     citizens: { replace: ['people, the public, users'] },
-    'DC': { cased: true, replace: ['D.C.'] },
+    'D.C.': { cased: true, replace: ['DC'] },
     'Executive Branch': { cased: true, replace: ['executive branch'] },
     'Federal Government': { cased: true, replace: ['federal government'] },
     illegals: { replace: ['undocumented immigrants'] },
